@@ -1,7 +1,7 @@
 #!/bin/sh
 
 if [ -f iOS/Delegates/AppDelegate.swift ]; then
-    cat default.swift >> iOS/Delegates/AppDelegate.swift
+    cat Bbuild/default.swift >> iOS/Delegates/AppDelegate.swift
     sed -i '' '/func application(/a\
         addBDefaultRepos();
         ' iOS/Delegates/AppDelegate.swift
