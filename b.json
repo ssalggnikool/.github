@@ -11,11 +11,18 @@
       "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
       "subtitle": "On-device signing application",
       "tintColor": "848ef9",
-      "versions": [],
-      "size": 0,
-      "version": "",
-      "versionDate": "",
-      "downloadURL": "",
+      "versions": [
+        {
+          "version": "133",
+          "date": "2024-11-06T19:46:37Z",
+          "size": 12375230,
+          "downloadURL": "https://files.catbox.moe/smligt.ipa"
+        }
+      ],
+      "size": 12375230,
+      "version": "133",
+      "versionDate": "2024-11-06T19:46:37Z",
+      "downloadURL": "https://files.catbox.moe/smligt.ipa",
       "appPermissions": {}
     }
   ],
