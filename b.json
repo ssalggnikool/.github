@@ -29,12 +29,18 @@
           "date": "2024-11-29T09:01:23Z",
           "size": 12375230,
           "downloadURL": "https://files.catbox.moe/rq9a7e.ipa"
+        },
+        {
+          "version": "136",
+          "date": "2024-12-03T01:44:28Z",
+          "size": 12375230,
+          "downloadURL": "https://files.catbox.moe/5xc8v2.ipa"
         }
       ],
       "size": 12375230,
-      "version": "135",
-      "versionDate": "2024-11-29T09:01:23Z",
-      "downloadURL": "https://files.catbox.moe/rq9a7e.ipa",
+      "version": "136",
+      "versionDate": "2024-12-03T01:44:28Z",
+      "downloadURL": "https://files.catbox.moe/5xc8v2.ipa",
       "appPermissions": {}
     }
   ],
