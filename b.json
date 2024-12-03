@@ -13,6 +13,12 @@
       "tintColor": "848ef9",
       "versions": [
         {
+          "version": "136",
+          "date": "2024-12-03T01:44:28Z",
+          "size": 12375230,
+          "downloadURL": "https://files.catbox.moe/5xc8v2.ipa"
+        },
+        {
           "version": "133",
           "date": "2024-11-06T19:46:37Z",
           "size": 12375230,
@@ -29,12 +35,6 @@
           "date": "2024-11-29T09:01:23Z",
           "size": 12375230,
           "downloadURL": "https://files.catbox.moe/rq9a7e.ipa"
-        },
-        {
-          "version": "136",
-          "date": "2024-12-03T01:44:28Z",
-          "size": 12375230,
-          "downloadURL": "https://files.catbox.moe/5xc8v2.ipa"
         }
       ],
       "size": 12375230,
