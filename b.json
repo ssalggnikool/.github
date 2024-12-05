@@ -41,12 +41,18 @@
           "date": "2024-12-05T06:56:30Z",
           "size": 12375230,
           "downloadURL": "https://files.catbox.moe/llfujz.ipa"
+        },
+        {
+          "version": "139",
+          "date": "2024-12-05T07:04:50Z",
+          "size": 12375230,
+          "downloadURL": "https://files.catbox.moe/sw6xsw.ipa"
         }
       ],
       "size": 12375230,
-      "version": "138",
-      "versionDate": "2024-12-05T06:56:30Z",
-      "downloadURL": "https://files.catbox.moe/llfujz.ipa",
+      "version": "139",
+      "versionDate": "2024-12-05T07:04:50Z",
+      "downloadURL": "https://files.catbox.moe/sw6xsw.ipa",
       "appPermissions": {}
     }
   ],
