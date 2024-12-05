@@ -13,12 +13,6 @@
       "tintColor": "848ef9",
       "versions": [
         {
-          "version": "136",
-          "date": "2024-12-03T01:44:28Z",
-          "size": 12375230,
-          "downloadURL": "https://files.catbox.moe/5xc8v2.ipa"
-        },
-        {
           "version": "133",
           "date": "2024-11-06T19:46:37Z",
           "size": 12375230,
@@ -35,12 +29,24 @@
           "date": "2024-11-29T09:01:23Z",
           "size": 12375230,
           "downloadURL": "https://files.catbox.moe/rq9a7e.ipa"
+        },
+        {
+          "version": "136",
+          "date": "2024-12-03T01:44:28Z",
+          "size": 12375230,
+          "downloadURL": "https://files.catbox.moe/5xc8v2.ipa"
+        },
+        {
+          "version": "138",
+          "date": "2024-12-05T06:56:30Z",
+          "size": 12375230,
+          "downloadURL": "https://files.catbox.moe/llfujz.ipa"
         }
       ],
       "size": 12375230,
-      "version": "136",
-      "versionDate": "2024-12-03T01:44:28Z",
-      "downloadURL": "https://files.catbox.moe/5xc8v2.ipa",
+      "version": "138",
+      "versionDate": "2024-12-05T06:56:30Z",
+      "downloadURL": "https://files.catbox.moe/llfujz.ipa",
       "appPermissions": {}
     }
   ],
