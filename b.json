@@ -53,12 +53,18 @@
           "date": "2024-12-05T07:15:12Z",
           "size": 12375230,
           "downloadURL": "https://files.catbox.moe/0x2ifl.ipa"
+        },
+        {
+          "version": "141",
+          "date": "2024-12-09T17:29:56Z",
+          "size": 12375230,
+          "downloadURL": "https://files.catbox.moe/0jp7tm.ipa"
         }
       ],
       "size": 12375230,
-      "version": "140",
-      "versionDate": "2024-12-05T07:15:12Z",
-      "downloadURL": "https://files.catbox.moe/0x2ifl.ipa",
+      "version": "141",
+      "versionDate": "2024-12-09T17:29:56Z",
+      "downloadURL": "https://files.catbox.moe/0jp7tm.ipa",
       "appPermissions": {}
     }
   ],
