@@ -13,40 +13,10 @@
       "tintColor": "848ef9",
       "versions": [
         {
-          "version": "133",
-          "date": "2024-11-06T19:46:37Z",
+          "version": "141",
+          "date": "2024-12-09T17:29:56Z",
           "size": 12375230,
-          "downloadURL": "https://files.catbox.moe/smligt.ipa"
-        },
-        {
-          "version": "134",
-          "date": "2024-11-06T20:16:38Z",
-          "size": 12375230,
-          "downloadURL": "https://files.catbox.moe/5srpwt.ipa"
-        },
-        {
-          "version": "135",
-          "date": "2024-11-29T09:01:23Z",
-          "size": 12375230,
-          "downloadURL": "https://files.catbox.moe/rq9a7e.ipa"
-        },
-        {
-          "version": "136",
-          "date": "2024-12-03T01:44:28Z",
-          "size": 12375230,
-          "downloadURL": "https://files.catbox.moe/5xc8v2.ipa"
-        },
-        {
-          "version": "138",
-          "date": "2024-12-05T06:56:30Z",
-          "size": 12375230,
-          "downloadURL": "https://files.catbox.moe/llfujz.ipa"
-        },
-        {
-          "version": "139",
-          "date": "2024-12-05T07:04:50Z",
-          "size": 12375230,
-          "downloadURL": "https://files.catbox.moe/sw6xsw.ipa"
+          "downloadURL": "https://files.catbox.moe/0jp7tm.ipa"
         },
         {
           "version": "140",
@@ -55,11 +25,41 @@
           "downloadURL": "https://files.catbox.moe/0x2ifl.ipa"
         },
         {
-          "version": "141",
-          "date": "2024-12-09T17:29:56Z",
+          "version": "139",
+          "date": "2024-12-05T07:04:50Z",
           "size": 12375230,
-          "downloadURL": "https://files.catbox.moe/0jp7tm.ipa"
-        }
+          "downloadURL": "https://files.catbox.moe/sw6xsw.ipa"
+        },
+        {
+          "version": "138",
+          "date": "2024-12-05T06:56:30Z",
+          "size": 12375230,
+          "downloadURL": "https://files.catbox.moe/llfujz.ipa"
+        },
+        {
+          "version": "136",
+          "date": "2024-12-03T01:44:28Z",
+          "size": 12375230,
+          "downloadURL": "https://files.catbox.moe/5xc8v2.ipa"
+        },
+        {
+          "version": "135",
+          "date": "2024-11-29T09:01:23Z",
+          "size": 12375230,
+          "downloadURL": "https://files.catbox.moe/rq9a7e.ipa"
+        },
+        {
+          "version": "134",
+          "date": "2024-11-06T20:16:38Z",
+          "size": 12375230,
+          "downloadURL": "https://files.catbox.moe/5srpwt.ipa"
+        },
+        {
+          "version": "133",
+          "date": "2024-11-06T19:46:37Z",
+          "size": 12375230,
+          "downloadURL": "https://files.catbox.moe/smligt.ipa"
+        },
       ],
       "size": 12375230,
       "version": "141",
