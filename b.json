@@ -12,7 +12,13 @@
       "subtitle": "On-device signing application",
       "tintColor": "848ef9",
       "versions": [
-       {
+        {
+          "version": "174",
+          "date": "2025-03-12T17:30:56Z",
+          "size": 12375230,
+          "downloadURL": "https://files.catbox.moe/56dyd0.ipa"
+        },
+        {
           "version": "172",
           "date": "2025-03-12T17:29:56Z",
           "size": 12375230,
@@ -68,9 +74,9 @@
         },
       ],
       "size": 12375230,
-      "version": "172",
-      "versionDate": "2025-03-12T17:29:56Z",
-      "downloadURL": "https://files.catbox.moe/rkfefr.ipa",
+      "version": "174",
+      "versionDate": "2025-03-12T17:30:56Z",
+      "downloadURL": "https://files.catbox.moe/56dyd0.ipa",
       "appPermissions": {}
     }
   ],
