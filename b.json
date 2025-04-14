@@ -13,8 +13,14 @@
       "tintColor": "848ef9",
       "versions": [
         {
-          "version": "179",
+          "version": "182",
           "date": "2025-04-14T17:30:56Z",
+          "size": 12375230,
+          "downloadURL": "https://files.catbox.moe/o21t6k.ipa"
+        },
+        {
+          "version": "179",
+          "date": "2025-04-13T17:30:56Z",
           "size": 12375230,
           "downloadURL": "https://files.catbox.moe/zs9naz.ipa"
         },
@@ -86,9 +92,9 @@
         },
       ],
       "size": 12375230,
-      "version": "176",
-      "versionDate": "2025-04-13T17:30:56Z",
-      "downloadURL": "https://files.catbox.moe/zs9naz.ipa",
+      "version": "182",
+      "versionDate": "2025-04-14T17:30:56Z",
+      "downloadURL": "https://files.catbox.moe/o21t6k.ipa",
       "appPermissions": {}
     }
   ],
